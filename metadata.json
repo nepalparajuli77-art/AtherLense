@@ -1,0 +1,6 @@
+{
+  "name": "AetherLens",
+  "description": "AI-powered AR photo tourism app that recognizes city landmarks, fetches search-grounded history, and presents interactive narrated clips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
